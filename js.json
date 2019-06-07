@@ -1,0 +1,58 @@
+{u'content': {u'profille':{u'id': 184
+        }, u'photo': None, u'lastLoginAt': u'2019-02-08T10: 17: 42.096Z', u'autoAnswer': False, u'contactNumber': None, u'updatedAt': u'2019-02-08T10: 17: 42.096Z', u'id': 209, u'createdAt': u'2019-02-05T09: 51: 42.427Z', u'ccLogin': u'1001', u'role': {u'permissions': {u'ivreditor': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'agents': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'numbers': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'callHistory': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'zdial': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'billing': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'live': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'blacklists': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'gateways': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'apiKeys': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'users': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'agentReports': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'recordings': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'statistics': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'uploader': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'audit': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'roles': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'settings': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'skills': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'positions': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'queues': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'callTrackers': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'dashboard': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }, u'dialplanEditor': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                }
+            }, u'id': 3, u'name': u'noaccess'
+        }, u'profileType': u'agents', u'type': u'agent', u'username': u'testziwo@mailinator.com', u'noAnswerTimeout': 0, u'ccPassword': u'797342', u'roamingContactNumber': u'', u'firstName': u'sample', u'roles': [
+            {u'permissions': {u'ivreditor': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'agents': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'numbers': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'callHistory': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'zdial': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'billing': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'live': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'blacklists': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'gateways': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'apiKeys': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'users': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'agentReports': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'recordings': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'statistics': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'uploader': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'audit': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'roles': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'settings': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'skills': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'positions': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'queues': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'callTrackers': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'dashboard': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }, u'dialplanEditor': {u'read': False, u'access': False, u'create': False, u'update': False, u'delete': False
+                    }
+                }, u'id': 3, u'name': u'noaccess'
+            }
+        ], u'access_token': u'c4ed7b90-2b8a-11e9-b2f1-f996da605a16', u'lastName': u'agent', u'status': u'active', u'wrapUpTime': 10
+    }, u'info': {}, u'result': True
+}
